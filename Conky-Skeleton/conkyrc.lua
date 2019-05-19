@@ -1,0 +1,1 @@
+/home/honza/.conky/Conky-Skeleton/skeleton-blue.lua
